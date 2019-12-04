@@ -5,4 +5,4 @@ The end goal is to integrate this into an app that a fisherman can use to identi
 
 We query images from ImageNet, filtering to keep only the ones containing sharks. We then finetune an ImageNet pretrained ResNet50 on 7 species of sharks, which are the species with the most images in ImageNet.
 
-![alt text](https://github.com/AlexSzen/wwf_shark_id/tree/master/figures)
+![alt text](figures/confusion_matrix_sharks.png)
