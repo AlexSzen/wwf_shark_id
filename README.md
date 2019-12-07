@@ -7,16 +7,16 @@ We query images from ImageNet, filtering to keep only the ones containing sharks
 
 ![alt text](figures/confusion_matrix_sharks.png)
 
-We can plot some images and visualise parts of the image that most activate the given class output (here using guided backprop from https://arxiv.org/abs/1412.6806).
+We can plot some images and visualise parts of the image that most activate the given class output (here using guided backprop from https://arxiv.org/abs/1412.6806 and grad-CAM from https://arxiv.org/pdf/1610.02391.pdf).
 
 ![alt text](figures/orig_image_2500_whale%20shark.png)
-![alt text](figures/shark_image_2500_class_whale shark_Guided_BP_gray.jpg)
+![alt text](figures/shark_image_2500_class_whale%20shark_Guided_BP_gray.jpg)
 
 
-![alt text](figures/orig_image_300_great white shark.png)
-![alt text](figures/shark_image_300_class_great white shark_GGrad_Cam_gray.jpg)
+![alt text](figures/orig_image_300_great%20white shark.png)
+![alt text](figures/shark_image_300_class_great%20white%20shark_GGrad_Cam_gray.jpg)
 
-![alt text](figures/orig_image_100_blue shark.png)
+![alt text](figures/orig_image_100_blue%20shark.png)
 ![alt text](figures/shark_image_100_class_blue_shark_GGrad_Cam_gray.jpg)
 
 
