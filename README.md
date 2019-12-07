@@ -9,7 +9,7 @@ We query images from ImageNet, filtering to keep only the ones containing sharks
 
 We can plot some images and visualise parts of the image that most activate the given class output (here using guided backprop from https://arxiv.org/abs/1412.6806).
 
-![alt text](figures/orig_image_2500_whale shark.png)
+![alt text](figures/orig_image_2500_whale%20shark.png)
 ![alt text](figures/shark_image_2500_class_whale shark_Guided_BP_gray.jpg)
 
 
